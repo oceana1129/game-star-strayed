@@ -2,6 +2,8 @@
 
 A 2D side-scrolling mobile platformer where players guide Kitty through a space adventure after being separated from its owner. Featuring narrative-driven progression, platforming challenges, collectibles, and progressively introduced mechanics, the game combines exploration, action, and accessibility into a polished mobile experience.
 
+**Link to Demo:** https://www.youtube.com/watch?v=Tk6EVGvCkhs
+
 ## How It's Made:
 
 **Tech used:** Android Studio, C#
